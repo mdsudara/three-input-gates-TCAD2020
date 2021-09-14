@@ -1,9 +1,9 @@
 The benchmarks and optimized results for the work: 
 
-**Three-Input Gates for Logic Synthesis** by  D. S. Marakkalage, E. Testa, H. Riener, A. Mishchenko, M. Soeken and G. De Micheli, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+**Three-Input Gates for Logic Synthesis** by  D. S. Marakkalage, E. Testa, H. Riener, A. Mishchenko, M. Soeken and G. De Micheli, in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems. (https://ieeexplore.ieee.org/document/9233431)
 
 
-The verilog files in `benchmarks/` are the original benchmarks used in the experiments (https://github.com/lsils/benchmarks) and the `.blif` files in `optimized/` are the optimized results. 
+The verilog files in `benchmarks/` are the original benchmarks used in the experiments (https://github.com/lsils/benchmarks) and the `.blif` files in `optimized/` are the optimized dot-inverter graphs. 
 
 To reproduce results in Table VII of the paper, please use the branch `tig` in the repository https://github.com/mdsudara/mockturtle.
 
