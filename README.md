@@ -23,12 +23,12 @@ Then, to reproduce the results for **And-Inverter Graphs (AIG)**, use the follow
 ./experiments/tig aig benchmark_name.v output_name.blif
 ```
 
-Similarly, to reproduce **Majority-Inverter Graphs (MIG)**, use
+Similarly, to reproduce results for **Majority-Inverter Graphs (MIG)**, use
 ```
 ./experiments/tig mig benchmark_name.v output_name.blif
 ```
 
-To reproduce **Dot-Inverter Graphs (DIG)**, use
+To reproduce results for **Dot-Inverter Graphs (DIG)**, use
 ```
 ./experiments/tig dig benchmark_name.v output_name.blif
 ```
